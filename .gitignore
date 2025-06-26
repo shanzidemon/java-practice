@@ -1,1 +1,8 @@
+*.class
+*.log
+*.tmp
 .DS_Store
+bin/
+build/
+.idea/
+.vscode/
